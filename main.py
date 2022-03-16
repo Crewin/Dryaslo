@@ -1,1 +1,1 @@
-print()
+print("Variant 1")
